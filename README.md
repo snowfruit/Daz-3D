@@ -15,8 +15,8 @@ Projects and help for software from Daz 3D.
 * nvidia-driver 525.125.06-1~deb12u1
 
 #### Guide
-* Install "nvidia-driver".
-* Install "Bottles".
-* Create a new bottle.
-* Install "Daz Studio".
-* Install "setup_nvlibs.sh".
+1. Install "nvidia-driver". `apt install nvidia-driver`
+1. Install "Bottles".
+1. Create a new bottle.
+1. Install "Daz Studio".
+1. Install "setup_nvlibs.sh".
