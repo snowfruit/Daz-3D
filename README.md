@@ -3,7 +3,7 @@ Projects and help for software from Daz 3D.
 
 ## Help
 
-### Getting GPU to work in Debian 12 (No longer working)
+### Getting GPU to work in Debian 12 (Working 2023-12-01)
 
 #### Software
 * Debian 12
